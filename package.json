@@ -1,12 +1,8 @@
 {
-  "name": "next-i18next",
-  "version": "8.4.0",
-  "repository": "git@github.com:isaachinman/next-i18next.git",
-  "author": "Isaac Hinman <isaac@isaachinman.com>",
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/isaachinman"
-  },
+  "name": "modified-next-i18next",
+  "version": "1.0.0",
+  "repository": "https://github.com/H3RSKO/modified-next-i18next",
+  "author": "H3RSKO",
   "main": "dist/commonjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/types/types.d.ts",
@@ -14,7 +10,7 @@
   "engines": {
     "node": ">=10"
   },
-  "description": "The easiest way to translate your NextJs apps.",
+  "description": "A slightly modified version of next-i18next to allow for different folder structure.",
   "keywords": [
     "react",
     "i18next",
